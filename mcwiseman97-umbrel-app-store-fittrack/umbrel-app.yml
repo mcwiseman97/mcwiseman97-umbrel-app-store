@@ -17,7 +17,7 @@ description: >-
   • Full JSON + CSV data export / import
   • Dark-mode-first UI optimised for phone and desktop
 
-icon: https://raw.githubusercontent.com/mcwiseman97/mcwiseman97-umbrel-app-store/main/fittrack/icon.svg
+icon: https://raw.githubusercontent.com/mcwiseman97/mcwiseman97-umbrel-app-store/main/mcwiseman97-umbrel-app-store-fittrack/icon.svg
 developer: mcwiseman97
 website: https://github.com/mcwiseman97/mcwiseman97-umbrel-app-store
 dependencies: []
