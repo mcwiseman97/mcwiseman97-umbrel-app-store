@@ -8,7 +8,7 @@ services:
       PROXY_AUTH_ADD: "false"
 
   web:
-    image: ghcr.io/mcwiseman97/fittrack:1.0.5@sha256:e7a90152b8976e9acc8b931179f857ac89172ba3208e5d4e893e593ecfd67d30
+    image: ghcr.io/mcwiseman97/fittrack:1.0.6@sha256:ee7268238b9ae49fa1716f480b8900f86f450b524fb228fd6a01e46393bffd3c
     restart: on-failure
     volumes:
       - ${APP_DATA_DIR}/data:/data
